@@ -1,5 +1,5 @@
-today is monday
+today is monday - the first working day of the week
 
 the month is April
 
-the year is 2014
+the year is 2014 - the 14th year of 2nd millenium
